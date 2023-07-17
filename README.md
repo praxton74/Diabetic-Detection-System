@@ -3,7 +3,7 @@
 Disease prediction from symptoms.
 
 Problem Statement:
-1.Classical diagnosis method is a process where the patient has to visit a doctor, undergo various medical test and then come to a conclusion.
+1.Classical diagnosis method is a process where the patient has to visit a doctor, undergo various medical test and then come to a conclusion.\n
 2.This process is very time consuming.
 
 Our Solution:
