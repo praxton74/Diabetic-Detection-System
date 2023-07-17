@@ -19,3 +19,4 @@ Disease prediction from symptoms.
 	3.The dataset contains disease as labels and for each disease symptoms are given.
 	
 -> Have fun guyzzz !!!!!
+ 
